@@ -1,0 +1,19 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(to bottom, #000, #111);
+    color: white;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+  } */
+
+  .snowflake {
+      user-select: none;
+      pointer-events: none;
+      z-index: 9999;
+      color: #ffffff;
+      font-weight: bold;
+      font-family: "Arial", sans-serif;
+      white-space: nowrap;
+    }
